@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://osdc.in/new-blog//github/sitemap.xml 
