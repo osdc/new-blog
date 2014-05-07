@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://osdc.github.io//github
+url: http://'osdc.in'  # OR echo 'www.osdc.in'//github
 title: OSDC Blog
 subtitle: Blog of OSDC.
 author: Open  Source Developer Club
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /new-blog
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
