@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[OSDC Blog]]></title>
+<<<<<<< HEAD
   <link href="http://osdc.github.io//github/atom.xml" rel="self"/>
   <link href="http://osdc.github.io//github/"/>
   <updated>2014-05-07T01:26:08+05:30</updated>
   <id>http://osdc.github.io//github/</id>
+=======
+  <link href="http://'osdc.in'/atom.xml" rel="self"/>
+  <link href="http://'osdc.in'/"/>
+  <updated>2014-05-07T17:10:52+05:30</updated>
+  <id>http://&#8217;osdc.in&#8217;/</id>
+>>>>>>> 3cd5494880832f6307371f9f5376ab03405971d6
   <author>
     <name><![CDATA[Open  Source Developer Club]]></name>
     

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
@@ -12,4 +13,20 @@
         <loc>http://osdc.github.io//github/robots.txt</loc>
         <lastmod>2014-05-03T17:51:08+05:30</lastmod>
     </url>
+=======
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://&apos;osdc.in&apos;/blog/archives/</loc>
+        <lastmod>2014-05-07T01:38:02+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://&apos;osdc.in&apos;/</loc>
+        <lastmod>2014-05-07T01:38:02+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://&apos;osdc.in&apos;/robots.txt</loc>
+        <lastmod>2014-05-07T01:38:02+05:30</lastmod>
+    </url>
+>>>>>>> 3cd5494880832f6307371f9f5376ab03405971d6
 </urlset>

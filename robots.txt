@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow: 
 
 Sitemap: http://osdc.github.io//github/sitemap.xml 
+=======
+User-agent: *
+Disallow: 
+
+Sitemap: http://'osdc.in'/sitemap.xml 
+>>>>>>> 3cd5494880832f6307371f9f5376ab03405971d6
